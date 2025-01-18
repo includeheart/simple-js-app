@@ -16,7 +16,6 @@
     border: 2px solid green;
 }
 
-/* Animation */
 @-webkit-keyframes animatetop {
     from {
       top: -300px;
